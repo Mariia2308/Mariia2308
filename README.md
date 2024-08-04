@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mariia, 
-- 👀 I’m interested in .Net, React.js, Node.js
+- 👀 I’m interested in .Net, React.js, Node.js, Python Computational Projects
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web-projects
+- 💞️ I’m looking to collaborate on Web-projects, Computational Projects
 
 
 <!---
